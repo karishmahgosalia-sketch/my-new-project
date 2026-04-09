@@ -1,9 +1,6 @@
 ## Summary
 
-# my-new-project
-AI Driven 
-
-### Key Learnings from an AI Certification
+ Key Learnings from an AI Certification
 
 1. **Foundations of AI**
 
